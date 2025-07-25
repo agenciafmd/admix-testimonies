@@ -1,0 +1,32 @@
+{
+    "name": "agenciafmd/local-testimonies",
+    "description": "Testimony - Agência F&MD",
+    "authors": [
+        {
+            "name": "Eduardo Rogerio",
+            "email": "eduardo.rogerio@fmd.ag",
+            "homepage": "https://fmd.ag/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "laravel/framework": "11.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Agenciafmd\\Testimonies\\": "src/",
+            "Agenciafmd\\Testimonies\\Database\\Factories\\": "database/factories/",
+            "Agenciafmd\\Testimonies\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Agenciafmd\\Testimonies\\Providers\\TestimonyServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
