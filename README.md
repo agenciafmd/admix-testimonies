@@ -1,6 +1,6 @@
 ## F&MD - Testimonies
 
-![Área Administrativa](https://github.com/agenciafmd/admix-testimonies/raw/v11/docs/01.png "Área Administrativa")
+![Área Administrativa](https://github.com/agenciafmd/admix-testimonies/raw/master/docs/01.png "Área Administrativa")
 
 [![Downloads](https://img.shields.io/packagist/dt/agenciafmd/admix-testimonies.svg?style=flat-square)](https://packagist.org/packages/agenciafmd/admix-categories)
 [![Licença](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
